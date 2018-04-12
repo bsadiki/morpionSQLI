@@ -1,6 +1,7 @@
 package com.sadiki.morpion;
 import static org.junit.Assert.*;
 
+import com.sadiki.morpion.grid.box.BoxAlreadySelectedException;
 import org.junit.Test;
 
 public class MorpionTest {
